@@ -16,7 +16,7 @@ import aiohttp
 import asyncio
 
 # DeepL API configuration
-DEEPL_API_KEY = "ffb63bc4-cf70-449d-ac18-be822e7f666b:fx"  # Provided DeepL API key
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY") # Provided DeepL API key
 DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
 
 # Translation function
