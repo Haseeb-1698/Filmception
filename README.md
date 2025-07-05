@@ -92,6 +92,19 @@ movie-genre-predictor/
 - **Visualization**: Plotly
 - **Data Processing**: Pandas
 
+  ---
+
+## 📂 Project Files
+
+- 📓 **Interactive Notebook**  
+  Explore the full model pipeline, preprocessing, training, and evaluation.  
+  👉 [View Notebook](./Project_22I-1698_%2022I-2353.ipynb)
+
+- 📄 **Final Report (PDF)**  
+  A detailed write-up of the project, including methodology, results, and conclusions.  
+  👉 [Download Report](./Project_22I-1698_%2022I-2353.pdf)
+
+
 ## 🌟 Key Features
 
 ### Genre Prediction
