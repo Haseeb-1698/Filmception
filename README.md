@@ -2,6 +2,11 @@
 
 An AI-powered Streamlit application that predicts movie genres based on plot summaries using deep learning and natural language processing.
 
+<div align="center">
+  <img src="screenshot-1751696083025.png" alt="Genre Prediction UI" width="85%" style="margin-right: 10px; border-radius: 8px;" />
+  <img src="screenshot-1751696146825.png" alt="Model Evaluation UI" width="85%" style="border-radius: 8px;" />
+</div>
+
 ## ✨ Features
 
 - **🎯 Genre Prediction**: Predicts multiple genres with confidence scores
